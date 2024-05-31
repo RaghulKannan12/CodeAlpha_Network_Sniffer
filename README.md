@@ -1,1 +1,4 @@
 # CodeAlpha_Network_Sniffer
+
+
+A network sniffer is a tool or software application designed to intercept, capture, and analyze network traffic passing through a computer network. It operates by capturing packets of data as they travel between devices on the network, allowing users to inspect the contents of the packets, including their source and destination addresses, protocols, and payload data. Network sniffers are commonly used for troubleshooting network issues, monitoring network performance, and analyzing security threats such as unauthorized access attempts and malicious activity. However, they can also be used for malicious purposes, such as eavesdropping on sensitive information or conducting cyber attacks like packet sniffing and session hijacking. Therefore, the use of network sniffers should be carefully regulated and conducted ethically and legally, with proper authorization and consent from relevant parties.
